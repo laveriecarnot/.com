@@ -1,0 +1,40 @@
+h1
+{
+	color: blue;
+}
+
+h3
+{
+	color: red;
+}
+
+body
+{
+	background-color: blue;
+}
+
+#carte
+{
+
+width: 1190px;
+margin:0 auto;
+background-color: white;
+text-align: center;
+align-content: center;
+}
+
+ul li
+{
+	list-style-type: none;
+}
+
+
+
+#scr
+{
+
+width: 1200px;
+text-align: center;
+align-content: center;
+}
+
